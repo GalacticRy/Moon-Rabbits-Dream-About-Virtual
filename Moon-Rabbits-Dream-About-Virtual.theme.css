@@ -54,7 +54,7 @@
     --bg-gradient1: #e297b2;
     --bg-gradient2: #c0b4d5;
     --bg-gradient3: #54b5de;
-    --bg-image: url("https://i.imgur.com/phPYbvK.jpg"); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
